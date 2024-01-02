@@ -1,7 +1,7 @@
 # triviaquiz
 
 23/9/23
-Second assignment for CFG degree
-Python console app using an API
+Early project during CFG degree <br>
+Python console app using an API <br>
 Using the open trivia database
 https://opentdb.com/
